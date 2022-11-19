@@ -130,6 +130,7 @@
         "H5P.DragText 1.10",
         "H5P.TrueFalse 1.8",
         "H5P.Essay 1.5"
+        "H5P.ImageChoice 0.3.1"
       ]
     }
   },
